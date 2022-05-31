@@ -2,6 +2,9 @@ import pandas
 import calculate
 print(calculate.x)
 
+def foo(x):
+  return x
+
 x = 10
 y = x * 2
 z = y + 20
